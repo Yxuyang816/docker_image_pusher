@@ -1,2 +1,2 @@
-alpine
+linuxserver/qbittorrent
 funcman/115pc
